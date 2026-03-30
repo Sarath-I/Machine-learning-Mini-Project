@@ -1,0 +1,8 @@
+# Ignore all pickle model files
+*.pkl
+
+*rf_model.pkl
+*scaler.pkl
+*le_month.pkl
+*le_visitor.pkl
+*le_revenue.pkl
